@@ -54,6 +54,32 @@ export default class Projects extends Component {
 					  <a href="https://github.com/rprakash78/ToDo-Application" class="btn btn-primary">Check here</a>
 					</div>
 				  </div>
+
+				  <div class="card" style={{padding:"20px"}}>
+					<div class="card-header bg-dark" style={{padding:"20px",height:"70px"}}>
+					  <h2 style={{color:"white",fontSize:"25px"}}>Advice Application using reactjs</h2>
+					</div>
+					<div class="card-body" style={{padding:"20px"}}>
+						<p class="card-text text-dark">A Simple Advice application created using reactjs and advice api</p>
+					  <p className="font-weight-bold">Technologies used : ReactJs, Bootstrap
+					  </p>
+
+					  <a href="https://github.com/rprakash78/react-advice-app" class="btn btn-primary">Check here</a>
+					</div>
+				  </div>
+
+				  <div class="card" style={{padding:"20px"}}>
+					<div class="card-header bg-dark" style={{padding:"20px",height:"70px"}}>
+					  <h2 style={{color:"white",fontSize:"25px"}}>House Price Prediction</h2>
+					</div>
+					<div class="card-body" style={{padding:"20px"}}>
+						<p class="card-text text-dark"> A project which predicts the house prices in Bangalore based on the input parameters developed by machine learning algorithms. </p>
+					  <p className="font-weight-bold">Technologies used : Python, Flask, JavaScript, Html, CSS
+					  </p>
+
+					  <a href="https://github.com/rprakash78/House-Price-Prediction" class="btn btn-primary">Check here</a>
+					</div>
+				  </div>
 				  </div>
 				</section>
       </div>
